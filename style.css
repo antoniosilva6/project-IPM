@@ -1,0 +1,58 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+canvas {
+	display: block;
+}
+
+#main_text {
+	font-size: 16px;
+	font-family: "Arial";
+	color: white;
+}
+
+#description_text {
+	font-size: 20px;
+	font-family: "Arial";
+	border: 3px solid rgb(255, 0, 0);
+	padding: 1px;
+	background-color: #ffffff;
+}
+
+#game_option {
+	font-size: 20px;
+	font-family: "Arial";
+	border: 5px solid rgb(9, 255, 0);
+	padding: 1px;
+	background-color: #ffffff;
+}
+
+#input {
+	font-size: 14px;
+	font-family: "Arial";
+	color: white;
+}
+
+#oneWord {
+	font-size: 14px;
+	font-family: "Arial";
+	color: white;
+	font-weight: bolder;
+}
+
+#twoWord {
+	font-size: 14px;
+	font-family: "Arial";
+	color: white;
+	font-weight: bolder;
+}
+
+#threeWord {
+	font-size: 14px;
+	font-family: "Arial";
+	color: white;
+	font-weight: bolder;
+}
